@@ -1,0 +1,10 @@
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\obj\Debug\MarkovWords.csprojAssemblyReference.cache
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\obj\Debug\MarkovWords.Form1.resources
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\obj\Debug\MarkovWords.Properties.Resources.resources
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\obj\Debug\MarkovWords.csproj.GenerateResource.cache
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\obj\Debug\MarkovWords.csproj.CoreCompileInputs.cache
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\bin\Debug\MarkovWords.exe.config
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\bin\Debug\MarkovWords.exe
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\bin\Debug\MarkovWords.pdb
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\obj\Debug\MarkovWords.exe
+C:\Users\Charles\source\repos\MarkovWords\MarkovWords\obj\Debug\MarkovWords.pdb

@@ -34,6 +34,7 @@ namespace MarkovWords
             this.btnGenGerm = new System.Windows.Forms.Button();
             this.btnGenerateProb = new System.Windows.Forms.Button();
             this.btnHawaiian = new System.Windows.Forms.Button();
+            this.btnLatin = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnGen
@@ -57,6 +58,7 @@ namespace MarkovWords
             // 
             // btnGenGerm
             // 
+            this.btnGenGerm.Enabled = false;
             this.btnGenGerm.Location = new System.Drawing.Point(12, 41);
             this.btnGenGerm.Name = "btnGenGerm";
             this.btnGenGerm.Size = new System.Drawing.Size(135, 23);
@@ -77,6 +79,7 @@ namespace MarkovWords
             // 
             // btnHawaiian
             // 
+            this.btnHawaiian.Enabled = false;
             this.btnHawaiian.Location = new System.Drawing.Point(12, 70);
             this.btnHawaiian.Name = "btnHawaiian";
             this.btnHawaiian.Size = new System.Drawing.Size(135, 23);
@@ -85,11 +88,22 @@ namespace MarkovWords
             this.btnHawaiian.UseVisualStyleBackColor = true;
             this.btnHawaiian.Click += new System.EventHandler(this.btnHawaiian_Click);
             // 
+            // btnLatin
+            // 
+            this.btnLatin.Location = new System.Drawing.Point(12, 99);
+            this.btnLatin.Name = "btnLatin";
+            this.btnLatin.Size = new System.Drawing.Size(135, 23);
+            this.btnLatin.TabIndex = 5;
+            this.btnLatin.Text = "Generate Novum Verbum\r\n";
+            this.btnLatin.UseVisualStyleBackColor = true;
+            this.btnLatin.Click += new System.EventHandler(this.btnLatin_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(460, 212);
+            this.Controls.Add(this.btnLatin);
             this.Controls.Add(this.btnHawaiian);
             this.Controls.Add(this.btnGenerateProb);
             this.Controls.Add(this.btnGenGerm);
@@ -109,6 +123,7 @@ namespace MarkovWords
         private System.Windows.Forms.Button btnGenGerm;
         private System.Windows.Forms.Button btnGenerateProb;
         private System.Windows.Forms.Button btnHawaiian;
+        private System.Windows.Forms.Button btnLatin;
     }
 }
 

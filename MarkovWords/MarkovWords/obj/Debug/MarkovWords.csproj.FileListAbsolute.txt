@@ -8,3 +8,13 @@ C:\Users\Charles\source\repos\MarkovWords\MarkovWords\bin\Debug\MarkovWords.exe
 C:\Users\Charles\source\repos\MarkovWords\MarkovWords\bin\Debug\MarkovWords.pdb
 C:\Users\Charles\source\repos\MarkovWords\MarkovWords\obj\Debug\MarkovWords.exe
 C:\Users\Charles\source\repos\MarkovWords\MarkovWords\obj\Debug\MarkovWords.pdb
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\bin\Debug\MarkovWords.exe.config
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\bin\Debug\MarkovWords.exe
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\bin\Debug\MarkovWords.pdb
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\obj\Debug\MarkovWords.csproj.AssemblyReference.cache
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\obj\Debug\MarkovWords.Form1.resources
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\obj\Debug\MarkovWords.Properties.Resources.resources
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\obj\Debug\MarkovWords.csproj.GenerateResource.cache
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\obj\Debug\MarkovWords.csproj.CoreCompileInputs.cache
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\obj\Debug\MarkovWords.exe
+C:\Users\claim\CS stuff\OtherStuff\MarkovWords-main\MarkovWords\MarkovWords\obj\Debug\MarkovWords.pdb
